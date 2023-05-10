@@ -1,0 +1,42 @@
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.exe
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.deps.json
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.runtimeconfig.json
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.runtimeconfig.dev.json
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.dll
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.pdb
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.csproj.AssemblyReference.cache
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.AssemblyInfoInputs.cache
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.AssemblyInfo.cs
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.csproj.CoreCompileInputs.cache
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.dll
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.pdb
+C:\Users\kcbow\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.genruntimeconfig.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.exe
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.deps.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.runtimeconfig.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.runtimeconfig.dev.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.dll
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.pdb
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.csproj.AssemblyReference.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.AssemblyInfoInputs.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.AssemblyInfo.cs
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.csproj.CoreCompileInputs.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.dll
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.pdb
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice\C# practice\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.genruntimeconfig.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.exe
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.deps.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.runtimeconfig.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.runtimeconfig.dev.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.dll
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\bin\Debug\netcoreapp3.1\Apppendtext.pdb
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.csproj.AssemblyReference.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.AssemblyInfoInputs.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.AssemblyInfo.cs
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.csproj.CoreCompileInputs.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.dll
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.pdb
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Processing Satellite Data\Apppendtext\obj\Debug\netcoreapp3.1\Apppendtext.genruntimeconfig.cache
